@@ -1,0 +1,6 @@
+TASK_08.TXT
+
+SUMMARY OF THE SUPERSTORE DATASET
+1. Most sales is achieved by the superstore is in November.
+2. West region has the maximum sales.
+3. The most sold devices are 'Electronic product'. 
